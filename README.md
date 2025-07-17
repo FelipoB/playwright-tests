@@ -30,7 +30,7 @@ Before you begin, ensure you have the following installed:
    ```
    If you encounter issues with system dependencies, you might need to run:
    ```bash
-   sudo npx playwright install-deps
+   npx playwright install-deps
    ```
 
 ## Running Tests
